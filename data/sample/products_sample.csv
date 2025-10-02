@@ -1,0 +1,501 @@
+﻿product_id,seller_id,product_name,category,price,stock_quantity,stock
+1861,52,MacBook Pro 14 (128GB),Headphones,6439.39,0,472
+354,11,Asus ROG Zephyrus (128GB),Laptops,3323.07,0,311
+1334,6,Xiaomi Mi 11 (256GB),Smartphones,3578.95,0,424
+906,56,Google Pixel 6 (64GB),Wearables,3178.73,0,174
+1290,73,Lenovo ThinkPad X1 (256GB),Laptops,4803.07,0,304
+1274,18,JBL Flip 6 (64GB),Laptops,1776.67,0,314
+939,74,DJI Mavic Air 2 (256GB),Tablets,5071.26,0,304
+1732,75,Xiaomi Mi Band 7 (64GB),Drones,6197.83,0,421
+66,49,JBL Flip 6 (128GB),Wearables,5433.05,0,460
+1324,40,Logitech MX Master 3 (256GB),Wearables,7998.11,0,456
+57,72,Xiaomi Mi Band 7 (256GB),Wearables,3868.09,0,323
+1293,28,Fitbit Charge 5 (64GB),Smartphones,2840.34,0,332
+1119,12,Sony WH-1000XM5 (128GB),Tablets,4675.91,0,321
+585,24,Google Pixel 6 (64GB),Wearables,5949.47,0,312
+375,13,HP Spectre x360 (256GB),Tablets,2990.14,0,413
+276,17,Microsoft Surface Pro 8 (256GB),Smartphones,1269.38,0,424
+747,59,Apple Watch Series 7 (64GB),Wearables,2723.86,0,391
+129,63,Logitech MX Master 3 (256GB),Smartphones,5166.79,0,58
+1647,26,Dell XPS 13 (64GB),Wearables,5617.36,0,229
+1853,22,Canon EOS R6 (256GB),Tablets,6685.94,0,294
+675,40,Apple Watch Series 7 (128GB),Accessories,1616.07,0,241
+1665,8,Samsung Galaxy S22 (128GB),Headphones,7958.27,0,410
+1982,25,Canon EOS R6 (256GB),Headphones,4835.4,0,380
+1084,24,Asus ROG Zephyrus (128GB),Smartphones,7392.0,0,11
+1923,48,Xiaomi Mi 11 (128GB),Laptops,7907.15,0,43
+100,31,iPhone 13 Pro (256GB),Drones,4416.23,0,124
+1180,8,Dell XPS 13 (128GB),Headphones,3098.28,0,51
+965,21,Samsung Galaxy Tab S8 (256GB),Drones,4634.07,0,234
+793,54,Asus ROG Zephyrus (64GB),Drones,2768.88,0,271
+30,56,Kindle Paperwhite (128GB),Headphones,3342.85,0,221
+629,67,Razer DeathAdder (128GB),Tablets,7645.9,0,307
+945,15,iPhone 13 Pro (256GB),Headphones,3410.64,0,147
+573,18,iPhone 13 Pro (128GB),Laptops,6952.68,0,154
+908,73,Microsoft Surface Pro 8 (128GB),Headphones,5776.39,0,312
+1081,51,DJI Mavic Air 2 (128GB),Accessories,4349.67,0,5
+451,5,OnePlus 9 (128GB),Wearables,2342.09,0,304
+1610,8,Xiaomi Mi 11 (256GB),Cameras,6333.43,0,152
+1291,67,Google Pixel 6 (128GB),Smartphones,6967.2,0,215
+1079,20,Dell XPS 13 (128GB),Accessories,2955.31,0,172
+255,1,Canon EOS R6 (128GB),Laptops,4918.31,0,8
+125,66,iPhone 13 Pro (128GB),Accessories,5622.95,0,42
+1928,69,Huawei MatePad Pro (128GB),Tablets,4850.98,0,206
+252,56,Canon EOS R6 (128GB),Smartphones,7096.76,0,91
+586,12,Xiaomi Mi 11 (64GB),Cameras,4018.68,0,305
+1569,25,Samsung Galaxy S22 (128GB),Drones,684.98,0,282
+825,39,Lenovo ThinkPad X1 (128GB),Drones,1542.0,0,245
+508,48,Huawei MatePad Pro (64GB),Headphones,4425.78,0,277
+890,48,Sony WH-1000XM5 (128GB),Smartphones,7930.92,0,107
+71,21,Sony WH-1000XM5 (256GB),Cameras,4245.53,0,478
+1609,41,Google Pixel 6 (128GB),Drones,2297.76,0,431
+1533,75,Lenovo ThinkPad X1 (128GB),Smartphones,6705.43,0,445
+248,6,Lenovo ThinkPad X1 (128GB),Cameras,7519.93,0,153
+1451,58,iPhone 13 Pro (128GB),Laptops,4763.03,0,387
+213,12,Canon EOS R6 (64GB),Tablets,2842.16,0,478
+910,35,Lenovo ThinkPad X1 (256GB),Wearables,7710.3,0,294
+1742,63,HP Spectre x360 (64GB),Tablets,3490.14,0,405
+1245,44,Lenovo ThinkPad X1 (128GB),Tablets,610.39,0,489
+1697,38,MacBook Pro 14 (64GB),Tablets,7375.99,0,408
+1183,44,Logitech MX Master 3 (64GB),Wearables,1670.18,0,367
+362,5,Apple Watch Series 7 (128GB),Cameras,1074.08,0,124
+1474,75,HP Spectre x360 (128GB),Headphones,351.69,0,105
+679,18,Fitbit Charge 5 (128GB),Accessories,762.24,0,327
+1622,44,Asus ROG Zephyrus (256GB),Laptops,4440.98,0,109
+1090,48,Nikon Z6 (64GB),Accessories,2004.86,0,443
+1988,37,JBL Flip 6 (128GB),Cameras,4449.77,0,75
+1848,24,Samsung Galaxy S22 (256GB),Cameras,5213.76,0,195
+988,19,Kindle Paperwhite (128GB),Smartphones,4723.05,0,379
+1513,9,Canon EOS R6 (256GB),Drones,4482.01,0,496
+112,49,Asus ROG Zephyrus (64GB),Tablets,4313.29,0,457
+1488,6,OnePlus 9 (64GB),Laptops,4160.55,0,145
+1454,74,Fitbit Charge 5 (256GB),Drones,389.71,0,426
+384,57,DJI Mavic Air 2 (256GB),Laptops,7193.42,0,135
+1396,73,Kindle Paperwhite (256GB),Drones,7627.49,0,320
+1055,24,Asus ROG Zephyrus (256GB),Smartphones,370.42,0,111
+756,3,JBL Flip 6 (128GB),Wearables,3318.66,0,447
+325,29,GoPro Hero 10 (128GB),Smartphones,4896.58,0,316
+1624,58,MacBook Pro 14 (256GB),Headphones,4397.18,0,214
+788,8,Microsoft Surface Pro 8 (64GB),Headphones,7323.96,0,273
+369,40,OnePlus 9 (128GB),Wearables,7552.8,0,175
+1820,66,DJI Mavic Air 2 (64GB),Laptops,2256.58,0,115
+70,52,Sony WH-1000XM5 (256GB),Accessories,5849.02,0,0
+858,40,Google Pixel 6 (128GB),Accessories,4155.14,0,25
+1484,8,Apple Watch Series 7 (64GB),Wearables,3315.35,0,374
+1556,70,OnePlus 9 (256GB),Wearables,6262.52,0,302
+1692,12,GoPro Hero 10 (128GB),Drones,6484.9,0,408
+1475,35,Asus ROG Zephyrus (256GB),Drones,4389.75,0,280
+1799,49,iPhone 13 Pro (128GB),Tablets,2835.88,0,156
+479,53,Huawei MatePad Pro (64GB),Cameras,1226.97,0,368
+282,12,MacBook Pro 14 (128GB),Accessories,2050.49,0,157
+1648,33,JBL Flip 6 (128GB),Cameras,4463.98,0,355
+1557,71,JBL Flip 6 (256GB),Cameras,2237.46,0,429
+1730,41,GoPro Hero 10 (64GB),Laptops,1176.83,0,12
+211,58,Microsoft Surface Pro 8 (128GB),Drones,1966.09,0,325
+298,72,Microsoft Surface Pro 8 (128GB),Headphones,569.19,0,325
+1885,56,Lenovo ThinkPad X1 (256GB),Accessories,692.62,0,465
+1834,41,GoPro Hero 10 (64GB),Cameras,7880.1,0,496
+652,22,Logitech MX Master 3 (128GB),Tablets,5239.71,0,52
+1234,73,Dell XPS 13 (64GB),Wearables,7569.45,0,164
+1503,5,Dell XPS 13 (64GB),Cameras,2247.01,0,57
+1932,54,JBL Flip 6 (128GB),Headphones,5669.16,0,391
+917,27,Samsung Galaxy S22 (128GB),Accessories,2447.45,0,24
+994,12,Canon EOS R6 (256GB),Cameras,7648.26,0,73
+430,71,Nikon Z6 (128GB),Accessories,1906.32,0,113
+1371,50,Logitech MX Master 3 (128GB),Drones,1501.15,0,386
+240,6,OnePlus 9 (64GB),Smartphones,3515.06,0,214
+880,26,Huawei MatePad Pro (64GB),Cameras,459.31,0,477
+621,56,Logitech MX Master 3 (128GB),Cameras,4254.27,0,277
+257,33,Xiaomi Mi 11 (64GB),Tablets,6137.48,0,420
+612,15,Xiaomi Mi Band 7 (64GB),Wearables,7006.59,0,406
+545,29,Lenovo ThinkPad X1 (64GB),Wearables,2113.49,0,118
+772,32,Huawei MatePad Pro (256GB),Laptops,3182.29,0,359
+1420,31,Xiaomi Mi Band 7 (256GB),Tablets,550.2,0,57
+1042,4,Xiaomi Mi Band 7 (64GB),Tablets,5383.76,0,105
+1790,59,Sony WH-1000XM5 (64GB),Wearables,5162.96,0,488
+760,10,DJI Mavic Air 2 (128GB),Wearables,4308.47,0,436
+383,38,Logitech MX Master 3 (128GB),Accessories,6649.91,0,14
+1104,47,Logitech MX Master 3 (256GB),Tablets,6264.72,0,189
+974,73,HP Spectre x360 (64GB),Cameras,2042.55,0,421
+353,46,Apple Watch Series 7 (256GB),Drones,7757.51,0,410
+1606,5,iPhone 13 Pro (128GB),Cameras,5254.74,0,191
+1826,3,Xiaomi Mi 11 (64GB),Cameras,3817.71,0,333
+1037,46,Xiaomi Mi Band 7 (256GB),Smartphones,171.1,0,50
+1108,29,Kindle Paperwhite (256GB),Tablets,7543.35,0,441
+495,34,Sony WH-1000XM5 (64GB),Headphones,4338.26,0,495
+394,35,Nikon Z6 (128GB),Cameras,1305.85,0,412
+1547,25,HP Spectre x360 (64GB),Laptops,7477.33,0,388
+465,70,Xiaomi Mi Band 7 (256GB),Tablets,3041.63,0,76
+887,64,Fitbit Charge 5 (128GB),Drones,2005.91,0,33
+1194,8,Kindle Paperwhite (128GB),Tablets,4615.63,0,236
+367,6,Asus ROG Zephyrus (64GB),Cameras,6031.82,0,483
+1894,56,Canon EOS R6 (128GB),Headphones,2146.99,0,464
+1874,10,Fitbit Charge 5 (128GB),Headphones,6663.49,0,310
+745,57,Google Pixel 6 (256GB),Accessories,774.91,0,241
+530,17,Nikon Z6 (256GB),Accessories,2479.32,0,449
+803,66,Canon EOS R6 (64GB),Wearables,1738.03,0,422
+1224,47,MacBook Pro 14 (128GB),Tablets,5012.48,0,180
+1979,19,Logitech MX Master 3 (64GB),Drones,505.68,0,33
+1906,14,Sony WH-1000XM5 (256GB),Headphones,6306.58,0,224
+1700,8,Razer DeathAdder (64GB),Wearables,2300.68,0,315
+1545,71,GoPro Hero 10 (64GB),Laptops,3179.59,0,3
+1314,46,Razer DeathAdder (64GB),Accessories,2889.13,0,17
+307,57,JBL Flip 6 (64GB),Laptops,6455.8,0,441
+1667,36,Samsung Galaxy S22 (256GB),Laptops,7440.67,0,369
+863,29,GoPro Hero 10 (128GB),Laptops,5903.17,0,54
+1567,5,Canon EOS R6 (256GB),Headphones,4288.59,0,122
+531,51,Sony WH-1000XM5 (256GB),Laptops,2227.1,0,329
+655,72,iPhone 13 Pro (128GB),Accessories,6792.16,0,424
+1260,24,Samsung Galaxy Tab S8 (64GB),Wearables,2387.59,0,290
+234,14,Nikon Z6 (128GB),Tablets,486.4,0,257
+121,10,Microsoft Surface Pro 8 (128GB),Accessories,2312.15,0,247
+1698,7,Nikon Z6 (64GB),Wearables,7989.32,0,236
+950,18,HP Spectre x360 (256GB),Drones,4330.23,0,141
+618,1,HP Spectre x360 (128GB),Tablets,2229.53,0,461
+1179,52,Xiaomi Mi Band 7 (64GB),Accessories,4831.14,0,408
+308,33,Asus ROG Zephyrus (64GB),Accessories,2393.25,0,311
+136,50,MacBook Pro 14 (128GB),Smartphones,1675.48,0,384
+555,6,HP Spectre x360 (128GB),Tablets,260.01,0,304
+1674,75,OnePlus 9 (256GB),Laptops,1932.49,0,490
+584,73,Fitbit Charge 5 (256GB),Drones,3679.7,0,176
+1641,28,OnePlus 9 (128GB),Tablets,3464.15,0,25
+671,23,Asus ROG Zephyrus (128GB),Smartphones,3663.5,0,34
+835,16,Fitbit Charge 5 (256GB),Headphones,202.8,0,161
+110,72,Canon EOS R6 (64GB),Accessories,4176.89,0,256
+1165,21,MacBook Pro 14 (256GB),Wearables,4239.79,0,161
+1960,62,JBL Flip 6 (256GB),Tablets,1383.36,0,486
+1465,43,iPhone 13 Pro (256GB),Headphones,4247.28,0,106
+1729,20,Xiaomi Mi Band 7 (256GB),Tablets,3142.89,0,61
+1243,10,Dell XPS 13 (128GB),Headphones,6951.67,0,187
+212,31,Apple Watch Series 7 (128GB),Laptops,4309.62,0,460
+1768,38,HP Spectre x360 (64GB),Tablets,198.04,0,438
+1121,71,MacBook Pro 14 (128GB),Accessories,798.79,0,336
+680,22,Kindle Paperwhite (128GB),Tablets,4970.09,0,73
+1951,1,Razer DeathAdder (128GB),Headphones,4243.49,0,117
+1839,24,OnePlus 9 (256GB),Headphones,4006.34,0,485
+412,15,Lenovo ThinkPad X1 (128GB),Wearables,1643.75,0,204
+1325,25,GoPro Hero 10 (128GB),Cameras,6458.68,0,104
+783,16,GoPro Hero 10 (128GB),Drones,7040.34,0,18
+1346,59,Samsung Galaxy Tab S8 (64GB),Tablets,7725.89,0,0
+875,69,Samsung Galaxy Tab S8 (128GB),Smartphones,5591.46,0,376
+1653,16,Apple Watch Series 7 (64GB),Cameras,6953.85,0,476
+1279,26,Apple Watch Series 7 (128GB),Headphones,3677.21,0,260
+786,2,Samsung Galaxy S22 (128GB),Tablets,734.9,0,250
+1819,64,MacBook Pro 14 (128GB),Drones,7842.59,0,48
+1199,14,Microsoft Surface Pro 8 (64GB),Drones,6244.45,0,175
+808,39,OnePlus 9 (128GB),Accessories,3442.95,0,93
+713,17,Logitech MX Master 3 (64GB),Headphones,5532.06,0,364
+1991,69,iPhone 13 Pro (256GB),Laptops,3162.17,0,183
+1660,19,iPhone 13 Pro (256GB),Smartphones,1207.93,0,399
+1191,9,iPhone 13 Pro (256GB),Wearables,159.7,0,153
+1226,9,Google Pixel 6 (128GB),Laptops,5814.15,0,408
+603,24,OnePlus 9 (64GB),Smartphones,3102.52,0,169
+271,72,Fitbit Charge 5 (64GB),Headphones,1003.87,0,87
+1385,26,JBL Flip 6 (128GB),Wearables,3786.49,0,214
+232,23,Dell XPS 13 (64GB),Cameras,4358.42,0,235
+50,52,Fitbit Charge 5 (256GB),Cameras,7334.59,0,278
+463,44,Nikon Z6 (128GB),Smartphones,5071.77,0,121
+1106,29,Google Pixel 6 (128GB),Drones,1464.72,0,75
+856,19,Lenovo ThinkPad X1 (256GB),Tablets,1235.02,0,401
+694,8,Google Pixel 6 (64GB),Laptops,4201.52,0,316
+1552,29,MacBook Pro 14 (256GB),Drones,4441.69,0,362
+1873,15,Lenovo ThinkPad X1 (128GB),Wearables,4430.75,0,375
+527,49,Sony WH-1000XM5 (256GB),Wearables,1863.29,0,241
+174,74,Fitbit Charge 5 (256GB),Cameras,4267.12,0,178
+721,17,Kindle Paperwhite (64GB),Smartphones,3090.06,0,167
+415,24,Apple Watch Series 7 (256GB),Smartphones,7846.72,0,308
+238,55,Asus ROG Zephyrus (256GB),Laptops,2015.54,0,496
+1473,67,Samsung Galaxy S22 (64GB),Wearables,634.46,0,252
+1336,16,Apple Watch Series 7 (128GB),Headphones,2922.88,0,21
+1064,74,Lenovo ThinkPad X1 (64GB),Accessories,445.61,0,434
+24,49,iPhone 13 Pro (64GB),Headphones,1486.35,0,376
+1767,63,Sony WH-1000XM5 (128GB),Headphones,7947.98,0,150
+64,71,Sony WH-1000XM5 (64GB),Headphones,3287.71,0,453
+290,28,Xiaomi Mi 11 (128GB),Cameras,5386.79,0,175
+189,7,Apple Watch Series 7 (128GB),Wearables,5149.14,0,376
+702,17,GoPro Hero 10 (128GB),Cameras,1611.96,0,166
+1815,3,Dell XPS 13 (128GB),Headphones,1975.6,0,328
+1138,20,Logitech MX Master 3 (128GB),Smartphones,6205.31,0,99
+355,47,Dell XPS 13 (128GB),Drones,4544.81,0,410
+417,34,Xiaomi Mi Band 7 (256GB),Smartphones,2127.65,0,31
+1246,43,Samsung Galaxy S22 (64GB),Smartphones,282.35,0,149
+931,66,Logitech MX Master 3 (64GB),Wearables,6490.67,0,350
+197,65,OnePlus 9 (256GB),Drones,7075.91,0,252
+580,72,Dell XPS 13 (256GB),Smartphones,7967.93,0,64
+1135,2,Google Pixel 6 (256GB),Laptops,6058.38,0,428
+1814,57,Logitech MX Master 3 (128GB),Tablets,5603.52,0,215
+1935,52,Dell XPS 13 (128GB),Wearables,6742.0,0,421
+434,4,DJI Mavic Air 2 (256GB),Accessories,3216.78,0,276
+101,17,HP Spectre x360 (64GB),Tablets,1617.6,0,439
+1655,59,Microsoft Surface Pro 8 (256GB),Wearables,4768.56,0,398
+395,11,HP Spectre x360 (256GB),Wearables,4785.52,0,201
+1939,75,GoPro Hero 10 (256GB),Laptops,6510.26,0,498
+221,62,Kindle Paperwhite (256GB),Headphones,4875.42,0,126
+1676,34,Razer DeathAdder (256GB),Headphones,6058.74,0,298
+1498,44,iPhone 13 Pro (128GB),Laptops,4691.98,0,4
+1785,50,Sony WH-1000XM5 (256GB),Accessories,2294.6,0,300
+345,58,Samsung Galaxy Tab S8 (256GB),Laptops,1676.44,0,292
+1028,53,Samsung Galaxy S22 (256GB),Headphones,4684.23,0,297
+889,4,Fitbit Charge 5 (256GB),Headphones,6632.67,0,114
+1351,1,Xiaomi Mi Band 7 (128GB),Wearables,3658.41,0,135
+553,6,Nikon Z6 (128GB),Smartphones,1487.0,0,67
+744,30,Xiaomi Mi 11 (128GB),Wearables,1440.71,0,137
+1542,9,HP Spectre x360 (256GB),Smartphones,3634.98,0,230
+539,75,Huawei MatePad Pro (256GB),Tablets,7788.67,0,218
+907,48,Apple Watch Series 7 (256GB),Tablets,5016.7,0,26
+1395,15,Samsung Galaxy Tab S8 (64GB),Drones,3956.9,0,310
+116,71,Microsoft Surface Pro 8 (128GB),Tablets,1005.38,0,451
+830,17,Huawei MatePad Pro (128GB),Accessories,4261.21,0,146
+1938,14,Dell XPS 13 (256GB),Wearables,1975.53,0,482
+809,75,DJI Mavic Air 2 (256GB),Cameras,5863.56,0,218
+1311,61,Xiaomi Mi Band 7 (256GB),Wearables,1692.95,0,349
+1005,59,Razer DeathAdder (256GB),Accessories,4492.12,0,339
+306,47,GoPro Hero 10 (128GB),Drones,5704.25,0,296
+1101,23,Samsung Galaxy Tab S8 (64GB),Cameras,4628.55,0,239
+480,63,Xiaomi Mi 11 (128GB),Wearables,302.78,0,199
+1424,68,Nikon Z6 (64GB),Tablets,979.68,0,425
+1076,49,Samsung Galaxy Tab S8 (128GB),Drones,5818.05,0,140
+571,57,iPhone 13 Pro (128GB),Headphones,3587.76,0,191
+619,24,Dell XPS 13 (128GB),Smartphones,4620.04,0,199
+1898,34,Logitech MX Master 3 (256GB),Accessories,569.87,0,137
+1266,33,Xiaomi Mi 11 (256GB),Laptops,6509.19,0,59
+79,72,Samsung Galaxy S22 (128GB),Cameras,1174.51,0,414
+1912,74,Logitech MX Master 3 (128GB),Cameras,2665.91,0,500
+33,55,Huawei MatePad Pro (128GB),Headphones,4971.54,0,10
+1538,56,Dell XPS 13 (128GB),Smartphones,3520.07,0,17
+1034,36,Logitech MX Master 3 (256GB),Headphones,4888.32,0,473
+1563,25,Sony WH-1000XM5 (64GB),Cameras,7882.35,0,81
+352,43,Dell XPS 13 (256GB),Smartphones,1259.14,0,99
+164,45,Fitbit Charge 5 (64GB),Headphones,6037.83,0,311
+204,12,HP Spectre x360 (64GB),Tablets,4888.98,0,322
+1054,40,Lenovo ThinkPad X1 (64GB),Headphones,1175.75,0,371
+1365,58,GoPro Hero 10 (128GB),Tablets,5617.04,0,132
+1967,37,Nikon Z6 (64GB),Smartphones,4522.81,0,494
+496,6,Sony WH-1000XM5 (256GB),Drones,677.19,0,486
+1625,44,Google Pixel 6 (256GB),Wearables,7274.29,0,51
+1966,52,Razer DeathAdder (256GB),Smartphones,5736.77,0,293
+1963,67,Lenovo ThinkPad X1 (256GB),Drones,1503.36,0,80
+611,57,Canon EOS R6 (64GB),Laptops,3237.85,0,225
+433,47,HP Spectre x360 (128GB),Cameras,3558.85,0,449
+1492,67,Huawei MatePad Pro (128GB),Tablets,1447.99,0,7
+219,48,iPhone 13 Pro (256GB),Wearables,1387.77,0,416
+1931,70,HP Spectre x360 (64GB),Smartphones,3927.74,0,371
+1466,65,OnePlus 9 (128GB),Cameras,5938.95,0,302
+631,63,DJI Mavic Air 2 (128GB),Headphones,4343.94,0,167
+1382,41,OnePlus 9 (256GB),Headphones,4018.67,0,294
+1302,17,Microsoft Surface Pro 8 (128GB),Laptops,7754.89,0,266
+60,54,Apple Watch Series 7 (128GB),Wearables,1671.77,0,414
+299,52,Nikon Z6 (256GB),Headphones,5386.15,0,4
+1711,53,JBL Flip 6 (128GB),Smartphones,2620.77,0,47
+74,2,JBL Flip 6 (256GB),Cameras,2563.85,0,352
+163,71,Asus ROG Zephyrus (128GB),Cameras,808.34,0,367
+1275,12,Fitbit Charge 5 (256GB),Headphones,6477.86,0,21
+1594,49,Xiaomi Mi Band 7 (128GB),Wearables,4161.69,0,243
+1434,39,Xiaomi Mi Band 7 (256GB),Smartphones,4434.12,0,251
+1613,69,Samsung Galaxy S22 (256GB),Laptops,3839.86,0,94
+592,6,Huawei MatePad Pro (64GB),Tablets,1084.11,0,477
+317,35,Apple Watch Series 7 (256GB),Laptops,5046.64,0,210
+46,58,Sony WH-1000XM5 (256GB),Wearables,6942.22,0,82
+1720,69,GoPro Hero 10 (128GB),Accessories,7723.35,0,260
+1832,45,Google Pixel 6 (64GB),Laptops,1669.36,0,285
+428,17,Samsung Galaxy Tab S8 (256GB),Wearables,7679.9,0,53
+582,58,DJI Mavic Air 2 (64GB),Drones,2807.0,0,165
+77,70,Canon EOS R6 (128GB),Smartphones,7053.65,0,213
+1917,11,DJI Mavic Air 2 (256GB),Wearables,4173.06,0,251
+1415,60,Xiaomi Mi Band 7 (128GB),Smartphones,7084.89,0,446
+781,11,Logitech MX Master 3 (256GB),Drones,2556.96,0,308
+1920,13,Xiaomi Mi 11 (64GB),Accessories,3180.07,0,433
+1174,73,HP Spectre x360 (64GB),Smartphones,7387.14,0,353
+1320,15,Huawei MatePad Pro (256GB),Cameras,4044.97,0,490
+938,48,Dell XPS 13 (128GB),Accessories,5214.41,0,276
+31,56,JBL Flip 6 (64GB),Wearables,2037.06,0,216
+1092,28,Nikon Z6 (128GB),Tablets,793.78,0,431
+1616,21,Samsung Galaxy Tab S8 (64GB),Laptops,7461.16,0,135
+1230,6,Razer DeathAdder (256GB),Accessories,3386.88,0,3
+975,53,Canon EOS R6 (256GB),Drones,952.66,0,396
+1085,74,Sony WH-1000XM5 (256GB),Drones,6354.14,0,377
+515,49,Nikon Z6 (128GB),Headphones,4882.98,0,291
+1551,50,Apple Watch Series 7 (128GB),Tablets,2310.46,0,28
+1568,32,Lenovo ThinkPad X1 (64GB),Cameras,4875.25,0,430
+1811,38,Xiaomi Mi Band 7 (128GB),Accessories,1522.4,0,106
+1574,34,Kindle Paperwhite (64GB),Tablets,7989.88,0,247
+45,1,Samsung Galaxy Tab S8 (128GB),Tablets,7435.89,0,382
+1687,38,Dell XPS 13 (64GB),Wearables,3125.02,0,253
+169,41,Google Pixel 6 (64GB),Tablets,898.17,0,434
+304,38,Microsoft Surface Pro 8 (128GB),Drones,3040.71,0,453
+991,48,Dell XPS 13 (256GB),Headphones,379.74,0,303
+556,46,Sony WH-1000XM5 (256GB),Headphones,1417.59,0,480
+1925,66,Xiaomi Mi Band 7 (64GB),Smartphones,6244.83,0,153
+608,4,Samsung Galaxy Tab S8 (64GB),Tablets,2892.03,0,331
+1619,36,JBL Flip 6 (256GB),Tablets,5646.53,0,355
+758,12,Microsoft Surface Pro 8 (64GB),Accessories,6966.42,0,374
+439,51,MacBook Pro 14 (64GB),Cameras,6141.54,0,340
+583,42,Google Pixel 6 (128GB),Accessories,4643.54,0,466
+1519,19,Xiaomi Mi Band 7 (128GB),Accessories,1909.43,0,68
+528,41,MacBook Pro 14 (128GB),Accessories,733.54,0,82
+343,43,Xiaomi Mi Band 7 (64GB),Smartphones,5007.45,0,316
+1737,37,iPhone 13 Pro (256GB),Cameras,4888.66,0,363
+368,64,Sony WH-1000XM5 (256GB),Drones,2579.59,0,322
+186,44,HP Spectre x360 (64GB),Tablets,252.99,0,362
+1117,61,Fitbit Charge 5 (256GB),Smartphones,6612.51,0,191
+1755,68,Google Pixel 6 (128GB),Cameras,678.56,0,232
+1426,73,Apple Watch Series 7 (64GB),Cameras,6752.07,0,392
+301,24,JBL Flip 6 (64GB),Headphones,5597.64,0,227
+1904,25,Apple Watch Series 7 (256GB),Drones,5013.4,0,383
+833,18,Samsung Galaxy S22 (128GB),Tablets,6704.06,0,222
+544,29,Razer DeathAdder (256GB),Accessories,1758.39,0,24
+1601,37,Nikon Z6 (256GB),Cameras,6041.24,0,294
+351,58,GoPro Hero 10 (64GB),Tablets,2461.29,0,260
+1933,69,OnePlus 9 (256GB),Wearables,6724.46,0,270
+1511,39,Sony WH-1000XM5 (128GB),Wearables,3503.12,0,447
+979,14,HP Spectre x360 (128GB),Cameras,7688.75,0,325
+176,17,Nikon Z6 (256GB),Laptops,7305.36,0,95
+483,2,Microsoft Surface Pro 8 (64GB),Smartphones,4012.94,0,206
+1413,68,Nikon Z6 (128GB),Cameras,6606.99,0,391
+1611,20,Sony WH-1000XM5 (256GB),Smartphones,3418.67,0,406
+124,43,Dell XPS 13 (128GB),Drones,4939.25,0,382
+600,48,Kindle Paperwhite (256GB),Accessories,6901.79,0,63
+1795,38,MacBook Pro 14 (256GB),Drones,1750.54,0,373
+1746,74,Logitech MX Master 3 (64GB),Smartphones,1571.2,0,291
+1379,53,GoPro Hero 10 (64GB),Laptops,7313.72,0,11
+1186,7,Huawei MatePad Pro (256GB),Headphones,2897.31,0,145
+486,74,Kindle Paperwhite (256GB),Tablets,3168.11,0,454
+332,39,Xiaomi Mi Band 7 (64GB),Wearables,2470.05,0,400
+789,47,Huawei MatePad Pro (64GB),Tablets,4852.16,0,15
+195,61,Logitech MX Master 3 (256GB),Cameras,7277.3,0,458
+638,15,Razer DeathAdder (256GB),Tablets,7631.73,0,273
+472,19,Samsung Galaxy S22 (128GB),Laptops,606.73,0,6
+1714,34,JBL Flip 6 (256GB),Headphones,3628.3,0,276
+323,25,DJI Mavic Air 2 (64GB),Wearables,2476.83,0,224
+1197,63,Nikon Z6 (128GB),Tablets,4730.15,0,35
+267,73,DJI Mavic Air 2 (256GB),Cameras,558.61,0,204
+1544,47,Samsung Galaxy Tab S8 (256GB),Tablets,2803.44,0,68
+1804,49,Razer DeathAdder (128GB),Laptops,4328.48,0,431
+68,73,iPhone 13 Pro (256GB),Accessories,3290.65,0,281
+1738,33,Fitbit Charge 5 (256GB),Tablets,2874.13,0,396
+1593,36,Huawei MatePad Pro (64GB),Headphones,2671.56,0,285
+1564,53,Nikon Z6 (64GB),Headphones,3252.23,0,138
+481,73,Microsoft Surface Pro 8 (256GB),Wearables,6419.54,0,389
+1757,66,Asus ROG Zephyrus (128GB),Cameras,770.66,0,156
+1913,69,Asus ROG Zephyrus (256GB),Drones,5202.65,0,289
+1441,10,JBL Flip 6 (256GB),Smartphones,4109.99,0,328
+1461,22,Huawei MatePad Pro (128GB),Wearables,1411.62,0,17
+888,52,Samsung Galaxy Tab S8 (64GB),Wearables,5194.81,0,158
+423,6,iPhone 13 Pro (128GB),Accessories,2589.33,0,273
+1675,72,MacBook Pro 14 (256GB),Accessories,4828.65,0,278
+1450,75,Logitech MX Master 3 (128GB),Cameras,4103.65,0,54
+765,21,Fitbit Charge 5 (256GB),Wearables,4110.18,0,404
+520,28,Samsung Galaxy Tab S8 (128GB),Headphones,4179.36,0,467
+1432,56,MacBook Pro 14 (128GB),Smartphones,6819.51,0,69
+614,45,Microsoft Surface Pro 8 (64GB),Tablets,6251.7,0,132
+1531,25,Microsoft Surface Pro 8 (64GB),Wearables,3459.82,0,87
+1783,19,GoPro Hero 10 (128GB),Cameras,7193.53,0,109
+1659,55,Samsung Galaxy S22 (256GB),Tablets,1124.32,0,171
+454,6,DJI Mavic Air 2 (128GB),Cameras,6884.02,0,134
+731,17,iPhone 13 Pro (64GB),Tablets,5126.5,0,26
+535,59,Samsung Galaxy S22 (128GB),Cameras,2685.73,0,57
+966,54,Samsung Galaxy Tab S8 (64GB),Accessories,406.65,0,298
+1285,69,Samsung Galaxy S22 (64GB),Laptops,253.06,0,233
+1740,19,Dell XPS 13 (256GB),Cameras,221.88,0,380
+262,72,Xiaomi Mi Band 7 (64GB),Tablets,1820.9,0,192
+536,69,Canon EOS R6 (256GB),Headphones,1255.68,0,323
+969,41,Google Pixel 6 (128GB),Accessories,6560.84,0,87
+241,47,GoPro Hero 10 (256GB),Wearables,7735.36,0,296
+820,29,JBL Flip 6 (256GB),Headphones,6448.7,0,285
+693,20,Canon EOS R6 (64GB),Headphones,1166.48,0,126
+421,57,JBL Flip 6 (256GB),Cameras,2038.72,0,91
+1086,63,GoPro Hero 10 (256GB),Tablets,6536.84,0,407
+1999,12,Sony WH-1000XM5 (256GB),Cameras,7555.73,0,1
+366,14,Microsoft Surface Pro 8 (256GB),Wearables,3619.62,0,265
+1023,17,Huawei MatePad Pro (256GB),Cameras,3235.69,0,236
+1241,35,Google Pixel 6 (64GB),Accessories,209.48,0,220
+589,40,Sony WH-1000XM5 (64GB),Smartphones,5147.7,0,244
+737,53,JBL Flip 6 (128GB),Headphones,6951.03,0,157
+1762,54,Sony WH-1000XM5 (128GB),Laptops,6836.53,0,74
+942,39,Asus ROG Zephyrus (128GB),Headphones,5945.63,0,267
+72,50,Samsung Galaxy Tab S8 (256GB),Wearables,5214.71,0,181
+1408,23,Huawei MatePad Pro (128GB),Smartphones,4612.43,0,142
+260,74,Razer DeathAdder (64GB),Accessories,720.53,0,359
+52,61,OnePlus 9 (256GB),Tablets,2203.62,0,96
+199,72,Xiaomi Mi Band 7 (128GB),Headphones,3225.33,0,48
+1789,72,JBL Flip 6 (256GB),Tablets,6844.02,0,72
+651,61,Canon EOS R6 (256GB),Tablets,7757.17,0,111
+333,23,Logitech MX Master 3 (256GB),Wearables,4351.83,0,304
+1360,56,Razer DeathAdder (64GB),Smartphones,4483.47,0,260
+594,31,Fitbit Charge 5 (64GB),Drones,629.55,0,393
+1392,60,Lenovo ThinkPad X1 (256GB),Smartphones,7278.39,0,469
+1801,49,Samsung Galaxy Tab S8 (256GB),Accessories,5617.01,0,421
+1315,31,Xiaomi Mi 11 (128GB),Drones,6896.33,0,457
+1112,55,Dell XPS 13 (64GB),Wearables,1710.89,0,299
+1007,35,DJI Mavic Air 2 (128GB),Headphones,7189.15,0,323
+1327,66,HP Spectre x360 (64GB),Wearables,4914.66,0,274
+427,25,HP Spectre x360 (64GB),Drones,381.21,0,266
+1559,7,Logitech MX Master 3 (64GB),Cameras,5619.0,0,139
+1294,10,Fitbit Charge 5 (64GB),Smartphones,627.3,0,193
+591,51,iPhone 13 Pro (128GB),Smartphones,7427.78,0,161
+1958,57,Xiaomi Mi 11 (64GB),Laptops,386.16,0,229
+1977,19,JBL Flip 6 (128GB),Laptops,3771.28,0,4
+1133,5,Samsung Galaxy S22 (256GB),Headphones,7686.89,0,6
+986,46,JBL Flip 6 (64GB),Accessories,1855.57,0,484
+399,18,Apple Watch Series 7 (128GB),Wearables,2238.4,0,494
+1512,49,iPhone 13 Pro (128GB),Tablets,4030.69,0,214
+437,7,Fitbit Charge 5 (256GB),Smartphones,582.93,0,97
+193,18,HP Spectre x360 (128GB),Drones,4829.17,0,207
+1436,34,Lenovo ThinkPad X1 (128GB),Tablets,806.95,0,232
+615,21,Xiaomi Mi Band 7 (256GB),Accessories,4381.74,0,255
+1494,25,Xiaomi Mi Band 7 (64GB),Tablets,4543.56,0,128
+577,59,Xiaomi Mi Band 7 (64GB),Accessories,1052.64,0,72
+987,22,Asus ROG Zephyrus (128GB),Drones,4581.21,0,265
+1433,32,OnePlus 9 (256GB),Wearables,7230.2,0,433
+707,47,Apple Watch Series 7 (256GB),Laptops,384.7,0,156
+1259,46,OnePlus 9 (64GB),Cameras,2882.05,0,249
+142,19,Xiaomi Mi Band 7 (128GB),Wearables,6482.63,0,232
+1358,40,Samsung Galaxy S22 (256GB),Drones,2002.22,0,478
+3,36,GoPro Hero 10 (64GB),Laptops,4131.08,0,228
+1222,74,Samsung Galaxy S22 (64GB),Wearables,2331.76,0,125
+1870,21,GoPro Hero 10 (64GB),Tablets,7955.49,0,387
+1623,24,DJI Mavic Air 2 (128GB),Cameras,478.37,0,88
+340,70,Huawei MatePad Pro (128GB),Smartphones,317.0,0,286
+1770,29,Apple Watch Series 7 (128GB),Headphones,4364.28,0,476
+1537,72,Samsung Galaxy Tab S8 (64GB),Drones,7494.12,0,312
+484,3,Lenovo ThinkPad X1 (128GB),Smartphones,5059.31,0,52
+266,19,Microsoft Surface Pro 8 (256GB),Tablets,2823.19,0,420
+377,65,Samsung Galaxy S22 (256GB),Tablets,7608.01,0,54
+742,8,Google Pixel 6 (256GB),Laptops,7486.11,0,232
+1014,4,Nikon Z6 (256GB),Tablets,2663.6,0,276
+440,37,Dell XPS 13 (256GB),Headphones,4105.61,0,411
+272,74,HP Spectre x360 (256GB),Headphones,5067.07,0,313
+185,29,Fitbit Charge 5 (64GB),Smartphones,4262.38,0,166
+940,49,OnePlus 9 (256GB),Wearables,5048.93,0,209
+245,73,GoPro Hero 10 (64GB),Accessories,6008.79,0,126
+932,12,JBL Flip 6 (64GB),Tablets,981.01,0,362
+446,16,Microsoft Surface Pro 8 (256GB),Tablets,6857.43,0,417
+597,2,Sony WH-1000XM5 (256GB),Tablets,7217.45,0,480
+818,40,OnePlus 9 (64GB),Wearables,1325.04,0,415
+1273,13,Razer DeathAdder (128GB),Tablets,1112.7,0,347
+1677,63,Dell XPS 13 (128GB),Wearables,4508.63,0,15
+487,55,JBL Flip 6 (128GB),Wearables,524.41,0,445
+681,62,Kindle Paperwhite (64GB),Smartphones,5797.36,0,324
+416,45,Nikon Z6 (256GB),Smartphones,6040.81,0,461
+274,53,GoPro Hero 10 (256GB),Smartphones,6139.96,0,181
+1472,69,Razer DeathAdder (64GB),Accessories,4381.93,0,259
+1830,49,GoPro Hero 10 (128GB),Drones,752.12,0,153
+1455,35,Dell XPS 13 (256GB),Headphones,6589.74,0,420
+251,10,DJI Mavic Air 2 (64GB),Cameras,584.79,0,254
+414,28,Xiaomi Mi 11 (64GB),Laptops,4636.33,0,283
+1386,5,Fitbit Charge 5 (256GB),Tablets,3596.29,0,253
+1308,74,MacBook Pro 14 (128GB),Headphones,1716.03,0,35
+716,7,Xiaomi Mi Band 7 (128GB),Drones,1129.88,0,51
+311,44,Logitech MX Master 3 (64GB),Tablets,7963.6,0,137
+927,2,Canon EOS R6 (128GB),Accessories,696.31,0,463
+382,43,Huawei MatePad Pro (128GB),Smartphones,7850.35,0,273
+1566,18,Asus ROG Zephyrus (64GB),Accessories,7902.06,0,399
+426,57,Samsung Galaxy S22 (128GB),Smartphones,468.41,0,183
+1875,42,Canon EOS R6 (256GB),Smartphones,2244.11,0,410
+533,37,Fitbit Charge 5 (256GB),Laptops,7695.72,0,17
+753,29,Microsoft Surface Pro 8 (256GB),Drones,2845.3,0,72
+766,75,Samsung Galaxy Tab S8 (128GB),Cameras,4545.48,0,432
+1357,40,Apple Watch Series 7 (128GB),Wearables,2212.15,0,68
+409,7,MacBook Pro 14 (256GB),Tablets,5425.29,0,234
+1615,7,Fitbit Charge 5 (256GB),Smartphones,7188.12,0,7
+695,33,Lenovo ThinkPad X1 (64GB),Smartphones,1689.81,0,177

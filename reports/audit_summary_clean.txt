@@ -1,0 +1,33 @@
+Tabela: orders
+Wiersze: 5
+Braki NULL: {'order_id': 0, 'user_id': 0, 'order_date': 0, 'status': 0, 'seller_id': 0, 'total_amount': 0}
+--------------------------------------------------
+Tabela: order_items
+Wiersze: 5
+Braki NULL: {'order_item_id': 0, 'order_id': 0, 'product_id': 0, 'quantity': 0, 'line_total': 0}
+--------------------------------------------------
+Tabela: sessions
+Wiersze: 5
+Braki NULL: {'session_id': 0, 'user_id': 0, 'device_type': 0, 'session_start': 0, 'session_end': 0, 'duration_seconds': 0, 'pages_viewed': 0, 'traffic_source': 0}
+--------------------------------------------------
+Tabela: events
+Wiersze: 5
+Braki NULL: {'event_id': 0, 'session_id': 0, 'event_type': 0, 'event_timestamp': 0, 'product_id': 0, 'seller_id': 0}
+--------------------------------------------------
+Tabela: users
+Wiersze: 5
+Braki NULL: {'user_id': 0, 'first_name': 0, 'last_name': 0, 'email': 0, 'city': 0, 'registration_date': 0, 'is_active': 0}
+--------------------------------------------------
+Tabela: sellers
+Wiersze: 5
+Braki NULL: {'seller_id': 0, 'seller_name': 0, 'location': 0, 'rating': 0, 'city': 0, 'join_date': 0}
+--------------------------------------------------
+Tabela: products
+Wiersze: 5
+Braki NULL: {'product_id': 0, 'seller_id': 0, 'product_name': 0, 'category': 0, 'price': 0, 'stock_quantity': 0, 'stock': 0}
+--------------------------------------------------
+
+Spójność revenue:
+SUM(orders.total_amount) = 24,113,752 zł
+SUM(order_items.line_total * quantity) = 4,201,020,010 zł
+Niespójność: revenue analizujemy wyłącznie z tabeli orders.

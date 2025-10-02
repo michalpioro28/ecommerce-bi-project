@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.32
+matplotlib==3.9.2
+seaborn==0.13.2
+jupyterlab==4.2.5
+python-dotenv==1.0.1
