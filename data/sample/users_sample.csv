@@ -1,0 +1,501 @@
+﻿user_id,first_name,last_name,email,city,registration_date,is_active
+6252,Ida,Wejman,dlenarcik@dub-roskosz.com,Chojnice,2023-10-29,True
+4685,Nicole,Radko,alanzawiasa@grupa.pl,Żory,2023-12-22,True
+1731,Gustaw,Hubert,mieszko34@kostorz-josko.pl,Tarnobrzeg,2025-04-23,True
+4743,Rozalia,Twardzik,urszulaczupryna@gabinety.org,Pabianice,2023-08-11,True
+4521,Julian,Olewniczak,kamil84@yahoo.com,Wągrowiec,2025-06-06,True
+6339,Wojciech,Franiak,trduch@onet.pl,Włocławek,2025-07-15,True
+577,Witold,Kochman,ichojak@stowarzyszenie.pl,Nowy Dwór Mazowiecki,2023-08-20,False
+5203,Urszula,Truchan,szymonkarys@hotmail.com,Chełm,2024-07-27,False
+6362,Kaja,Wiza,ykrzeszowiec@rajczak-peszko.pl,Szczecinek,2023-11-11,True
+440,Ewa,Kłosiewicz,lesiszsonia@grupa.net,Lubliniec,2024-07-31,False
+2749,Blanka,Rzeźniczak,wbrejnak@zegar-nazarko.com,Lubliniec,2023-09-25,True
+7486,Kazimierz,Tyczka,igesiarz@grupa.org,Wodzisław Śląski,2023-10-02,True
+5273,Juliusz,Brząkała,konstantykrzysztofek@hotmail.com,Płońsk,2025-03-17,True
+5654,Kalina,Turoń,pielecholaf@jama-wodka.com,Piastów,2024-01-12,True
+3999,Maciej,Tadla,urszulapoletek@malocha-sibiga.com,Szczecinek,2024-04-24,True
+6034,Liwia,Bojarczuk,dturczyk@zawiasa-matyszczak.pl,Racibórz,2023-12-20,True
+583,Kornel,Stoch,albert26@fpuh.pl,Poznań,2025-06-07,False
+9931,Mieszko,Pyzel,psymonowicz@dyczko.com,Zduńska Wola,2023-09-27,True
+7050,Rafał,Tutka,justyna36@wawrzonek.com,Siedlce,2025-07-15,True
+8159,Cezary,Kieca,giersmelania@o2.pl,Bełchatów,2025-05-12,True
+9897,Borys,Wiech,vcofala@fpuh.net,Piotrków Trybunalski,2025-05-18,False
+2249,Melania,Letkiewicz,rapakamil@grupa.pl,Oświęcim,2024-09-29,True
+4641,Leonard,Jonik,dawidrudolf@hotmail.com,Wągrowiec,2023-12-06,True
+9486,Maks,Jargieło,olgierdwasilewicz@stowarzyszenie.net,Łuków,2025-03-19,True
+4948,Nikodem,Wojtunik,wkurcz@grupa.com,Żywiec,2024-06-30,False
+9921,Kajetan,Miara,brunosliz@onet.pl,Oświęcim,2025-04-19,True
+1963,Daniel,Mzyk,gaja50@o2.pl,Wrocław,2024-11-22,True
+8244,Franciszek,Kozaczuk,adriannaiwanczyk@mizak-antonczak.pl,Jaworzno,2025-02-11,True
+6589,Cezary,Gryska,natasza04@fundacja.com,Piła,2024-08-01,True
+8848,Ksawery,Durlik,janina60@gmail.com,Ząbki,2024-06-06,True
+322,Damian,Kapustka,ksawerykalinka@interia.pl,Luboń,2023-09-10,False
+2677,Agnieszka,Chomiak,nwiertelak@fundacja.com,Rumia,2023-09-01,True
+4626,Tola,Ernst,daniel75@gmail.com,Suwałki,2024-07-22,False
+4950,Maciej,Jeka,zcich@kawala.com,Swarzędz,2024-01-14,True
+8329,Elżbieta,Skolik,slatko@yahoo.com,Oświęcim,2024-05-29,True
+3336,Błażej,Sadlik,tsamson@malcher-malon.pl,Skawina,2023-09-18,False
+5590,Julian,Kloch,usedek@yahoo.com,Koszalin,2024-11-22,True
+252,Artur,Wawrzynek,mzwara@pesta.com,Dąbrowa Górnicza,2024-04-12,True
+3973,Witold,Ambrożewicz,marika89@cmiel-jankowicz.pl,Nowy Targ,2024-03-11,True
+6629,Aleksander,Marciniszyn,kurczakmaciej@interia.pl,Starachowice,2024-04-27,True
+5548,Rozalia,Brojek,konstanty83@cal-ufniarz.pl,Słupsk,2025-06-17,True
+36,Maciej,Maćków,gkrepa@misior-steuer.org,Stalowa Wola,2025-03-17,True
+8363,Dorota,Ciećko,mieszkodziala@yahoo.com,Kraków,2024-10-16,False
+1514,Mikołaj,Łapaj,kajetankociemba@spoldzielnia.pl,Ełk,2023-09-15,True
+9318,Sylwia,Cięciwa,olszowaaleks@stowarzyszenie.pl,Swarzędz,2024-03-16,True
+40,Arkadiusz,Hapka,gomulafranciszek@interia.pl,Kutno,2025-05-27,True
+4820,Sylwia,Majnusz,palygaida@hotmail.com,Kędzierzyn-Koźle,2024-07-17,True
+3465,Sebastian,Rozynek,aurelia28@interia.pl,Szczytno,2024-01-02,True
+1760,Monika,Downar,maciejlenarcik@interia.pl,Skarżysko-Kamienna,2024-05-22,True
+2304,Ignacy,Tofil,eckertrozalia@piksa.com,Łaziska Górne,2025-05-01,True
+3723,Ida,Rzeszutko,nkocaj@onet.pl,Słupsk,2024-04-13,False
+8285,Michał,Wdowczyk,olgaplak@o2.pl,Płońsk,2025-07-24,True
+4994,Tadeusz,Kurp,cyprian51@fpuh.pl,Będzin,2024-06-30,True
+8128,Kamila,Majtczak,hwazny@yahoo.com,Płock,2023-08-30,True
+3032,Malwina,Plebanek,konstantykolarczyk@yahoo.com,Płońsk,2025-04-27,True
+7937,Fryderyk,Prokopczyk,juliuszwoloch@gmail.com,Goleniów,2024-04-26,True
+3039,Sonia,Pikor,pizonmarianna@hotmail.com,Tczew,2024-05-15,True
+9656,Róża,Kłosiewicz,sarawelenc@fpuh.com,Oława,2023-09-01,True
+2545,Oskar,Bubel,lukasz83@interia.pl,Toruń,2024-12-16,True
+2591,Janina,Oleksiewicz,ppres@gmail.com,Suwałki,2023-11-05,True
+1189,Dagmara,Dudczak,wwydmuch@yahoo.com,Gliwice,2023-12-08,False
+7965,Józef,Bochnak,wwakula@gmail.com,Białogard,2024-12-19,True
+6078,Dominik,Szumiło,olas@interia.pl,Szczecin,2024-09-17,True
+108,Gustaw,Matyka,nlyskawa@yahoo.com,Tarnów,2025-03-26,True
+1316,Bianka,Kominiak,fabian07@onet.pl,Wieluń,2025-04-11,True
+8188,Kamila,Szymała,ograbas@yahoo.com,Łowicz,2025-05-20,True
+2752,Marika,Deneka,karina38@nawrotek-dlugajczyk.org,Ząbki,2025-03-04,True
+9753,Jan,Kluczyk,sajcyprian@spoldzielnia.pl,Łuków,2024-05-28,True
+6231,Kajetan,Goworek,blazejewiczdominik@grupa.pl,Skarżysko-Kamienna,2024-11-17,True
+2876,Wojciech,Kargol,piotrmatejczyk@onet.pl,Pruszków,2025-03-27,True
+5324,Olgierd,Opoka,mieszko08@interia.pl,Rybnik,2024-08-23,True
+800,Konstanty,Bartkowicz,olgierdsumera@yahoo.com,Polkowice,2023-09-20,True
+3570,Aurelia,Rasała,mucmateusz@stowarzyszenie.net,Nowy Dwór Mazowiecki,2025-05-11,True
+2894,Tymon,Kycia,gustaw26@choros.com,Grodzisk Mazowiecki,2023-12-26,True
+2927,Iwo,Bajak,jaremkosandra@spoldzielnia.pl,Gdańsk,2024-03-04,True
+8179,Sonia,Lenarcik,rharaburda@spoldzielnia.com,Sieradz,2025-06-28,False
+972,Sara,Kajstura,pmidura@gmail.com,Słupsk,2023-12-04,True
+6685,Róża,Rabiej,wiwanczyk@yahoo.com,Jelenia Góra,2024-05-01,True
+8576,Ewelina,Czenczek,ldobrosz@onet.pl,Oleśnica,2024-07-01,True
+2020,Anna Maria,Faruga,doczko@onet.pl,Wieluń,2024-09-07,True
+9055,Natasza,Matejczuk,aleks00@fpuh.com,Zawiercie,2024-04-10,True
+953,Tobiasz,Godzisz,utratasonia@aleksiejuk-sieradzan.pl,Ciechanów,2025-05-31,False
+5360,Adrian,Mularz,jwincenciak@o2.pl,Nysa,2024-03-28,True
+3857,Oliwier,Dziopa,janinasmorag@fundacja.com,Zambrów,2024-07-24,True
+5862,Apolonia,Dziuban,koszroza@lempart-jarmuz.pl,Bielawa,2024-10-11,True
+3145,Norbert,Fleszar,monikadyka@yahoo.com,Zgierz,2024-10-17,True
+3304,Aleksander,Huczek,mateusz41@ppuh.pl,Mińsk Mazowiecki,2025-05-01,True
+3006,Marika,Ciapa,marcinachtelik@fpuh.pl,Poznań,2024-01-25,False
+9002,Jacek,Mikiciuk,ewelinakolanko@rurka-szoltysik.net,Jarocin,2025-04-27,True
+7769,Marcin,Leszczuk,gabrielklups@spoldzielnia.pl,Września,2023-10-05,True
+7437,Juliusz,Grunt,gfurga@ppuh.pl,Zawiercie,2025-02-26,True
+7941,Krystyna,Roj,blasikwitold@interia.pl,Stalowa Wola,2025-04-06,False
+9239,Liwia,Kożuszek,awojtiuk@interia.pl,Ząbki,2025-05-09,True
+1057,Antoni,Jędrzejek,trabkafryderyk@gabinety.pl,Łowicz,2025-07-06,True
+3154,Kaja,Furmankiewicz,qheller@grupa.com,Poznań,2025-07-15,True
+3787,Andrzej,Guziak,ingasasak@o2.pl,Puławy,2025-03-14,True
+9190,Justyna,Zielke,palegapiotr@interia.pl,Wołomin,2024-03-11,True
+7824,Iwo,Walasik,cmazek@filek-wieckiewicz.net,Legionowo,2024-11-12,True
+7538,Konstanty,Fikus,elzbieta45@ppuh.pl,Jawor,2024-10-29,True
+7230,Mariusz,Jasionek,wiktorkopysc@pazera-gos.com,Grudziądz,2024-05-01,True
+765,Maurycy,Strawa,szczepanmarika@interia.pl,Wyszków,2025-07-29,True
+5020,Malwina,Ochnio,elzbietakopysc@interia.pl,Grodzisk Mazowiecki,2024-04-22,True
+4904,Angelika,Wilkos,galszymon@yahoo.com,Sandomierz,2024-05-19,True
+8092,Maciej,Szyjka,ydownar@fpuh.pl,Tomaszów Mazowiecki,2024-02-11,True
+6842,Karol,Skrzecz,olaf63@kolendo-kupaj.com,Kutno,2024-11-09,True
+2164,Kalina,Jaroch,jedrzej15@interia.pl,Jarocin,2024-04-06,True
+1862,Maksymilian,Kiljan,konrad38@onet.pl,Białystok,2024-10-05,True
+7849,Jakub,Grodek,justynajanuchta@fundacja.pl,Opole,2023-11-17,True
+9124,Jeremi,Sołtan,bsliz@budzich-mosur.net,Ząbki,2024-11-22,False
+2340,Tymon,Potok,pawelkojan@onet.pl,Wałcz,2025-07-19,True
+5528,Nataniel,Hutnik,idachmara@lesisz.net,Opole,2024-12-04,True
+6742,Konstanty,Keler,anita64@onet.pl,Piaseczno,2025-01-02,False
+4003,Nela,Dorobisz,mzawal@kazirod-kolbusz.org,Luboń,2024-02-13,True
+1124,Eliza,Kozaczuk,szlekprzemyslaw@spoldzielnia.pl,Kielce,2024-03-20,True
+8710,Angelika,Cichowlas,cyprianfrydrychowicz@ppuh.pl,Marki,2024-04-06,True
+4049,Sylwia,Siwka,guscioramieszko@stowarzyszenie.pl,Sosnowiec,2024-12-14,False
+7639,Patryk,Konstanty,jakub58@yahoo.com,Kraśnik,2024-04-20,True
+766,Sonia,Jarmuła,lepekdominik@grupa.org,Głogów,2024-01-15,True
+2344,Juliusz,Ufnal,natansloka@yahoo.com,Cieszyn,2024-12-12,True
+4072,Jacek,Molka,arkadiuszlemieszek@kupaj-dacko.pl,Kędzierzyn-Koźle,2024-08-09,True
+7215,Fabian,Szmagaj,xstawczyk@ppuh.com,Jasło,2024-11-18,False
+4217,Maksymilian,Kulczak,liwiamolak@kedziorek-szymocha.pl,Bochnia,2024-03-06,True
+7951,Eryk,Hojda,strycharzjanina@fpuh.net,Świnoujście,2024-11-26,False
+5971,Aleksander,Wąsek,kamilatomal@yahoo.com,Tarnowskie Góry,2024-07-19,True
+3349,Maurycy,Jamroz,tywoniukeliza@gmail.com,Reda,2024-04-20,True
+4696,Kazimierz,Maciejczuk,konrad73@o2.pl,Biała Podlaska,2025-06-16,True
+3398,Sandra,Martyn,gumieniakroza@onet.pl,Kościan,2024-09-26,True
+4082,Jerzy,Kurzydło,juliuszmazek@spoldzielnia.pl,Szczecinek,2023-09-17,False
+9150,Tymoteusz,Rode,kazimierzmuniak@fpuh.org,Reda,2023-11-07,True
+1225,Anita,Bazela,dagmara56@zemanek.com,Nysa,2025-05-20,True
+6291,Marika,Roskosz,alekstluczek@hotmail.com,Leszno,2023-08-16,True
+3122,Witold,Rudzik,soniastas@yahoo.com,Otwock,2025-04-30,False
+511,Dagmara,Czupryna,ernest47@fundacja.net,Rybnik,2023-08-13,False
+5795,Olgierd,Kościk,ostafinksawery@plesniak-olszyna.com,Żory,2024-08-17,False
+8182,Mieszko,Fidler,mbalawender@onet.pl,Zakopane,2024-12-04,True
+9418,Kamila,Jędra,nliedtke@fpuh.pl,Opole,2024-02-24,False
+97,Nataniel,Wolańczyk,lmiotke@fpuh.pl,Iława,2024-08-06,True
+6679,Kamil,Giers,sebastiankazana@kramer-karnas.pl,Pruszcz Gdański,2024-08-27,True
+1513,Gustaw,Żymełka,anna-maria73@gabinety.net,Łomża,2024-05-03,False
+8792,Eliza,Ładniak,glowiakkalina@yahoo.com,Grodzisk Mazowiecki,2023-11-24,True
+120,Angelika,Myrcik,pastulaangelika@grupa.pl,Głogów,2025-05-07,True
+7790,Mateusz,Stachów,maszkiewicznikodem@fpuh.com,Zgorzelec,2024-08-04,True
+6516,Cyprian,Bogumił,krzysztoszekdorota@interia.pl,Ząbki,2024-09-22,True
+34,Arkadiusz,Łuczyk,ewelina44@gabinety.com,Zgierz,2023-09-29,True
+7886,Daniel,Poleszak,bszajek@onet.pl,Koło,2025-04-21,True
+6829,Alex,Miąsik,trojanowiczewelina@o2.pl,Szczecin,2023-12-15,True
+5422,Konstanty,Kurzyna,urszulabondaruk@merda-martyn.com,Szczecinek,2025-01-24,True
+1069,Liwia,Heller,raszkiewiczroksana@o2.pl,Myszków,2025-04-06,False
+1348,Jędrzej,Drobisz,jedrzejprostak@yahoo.com,Skierniewice,2024-03-13,True
+4748,Mikołaj,Mikosz,konstanty05@o2.pl,Chorzów,2023-11-02,True
+6006,Filip,Wasiuk,adamkarczmarz@nozka.com,Skarżysko-Kamienna,2023-12-30,True
+6040,Karol,Bełz,ksych@interia.pl,Swarzędz,2024-11-30,True
+3817,Jeremi,Wardziak,cwieczerzak@stowarzyszenie.com,Bochnia,2023-11-22,True
+8447,Ewelina,Zębik,skubisewa@stowarzyszenie.pl,Suwałki,2023-10-01,True
+5270,Leon,Migała,aleksczupryn@o2.pl,Nowy Sącz,2024-05-26,False
+6896,Emil,Szuta,tobiaszpajdak@hotmail.com,Legnica,2025-07-26,False
+5310,Wiktor,Rut,aleksander45@interia.pl,Kołobrzeg,2024-06-13,True
+32,Stanisław,Darul,ifamula@interia.pl,Turek,2024-11-17,True
+5675,Dominik,Helak,arkadiuszbeker@gabinety.com,Puławy,2024-05-12,False
+4387,Juliusz,Stoch,natanpiesik@o2.pl,Bielsko-Biała,2025-07-30,True
+30,Sylwia,Mętel,rkuk@fundacja.org,Zawiercie,2023-11-22,True
+4203,Konstanty,Karalus,uromankiewicz@dobosiewicz-smykala.pl,Lubin,2025-04-06,True
+7506,Paweł,Łapacz,witold97@szelest.com,Tomaszów Mazowiecki,2024-03-16,True
+736,Eryk,Bociek,yrudowicz@interia.pl,Brzeg,2024-06-11,True
+2067,Borys,Dziurla,maurycy60@slowiak.com,Tarnowskie Góry,2024-10-12,True
+107,Łukasz,Jas,bartek16@interia.pl,Nysa,2024-01-10,True
+9645,Krystian,Dorynek,aleksandertomys@fundacja.org,Wieluń,2025-04-25,True
+8895,Tymon,Kubów,grzegorzmaciejczuk@onet.pl,Piastów,2024-09-26,False
+8019,Ewelina,Fronczek,szczypekkonstanty@fundacja.pl,Bytom,2024-10-10,True
+2232,Robert,Monkiewicz,kacper47@onet.pl,Żagań,2025-07-31,True
+994,Wiktor,Perczak,krameranastazja@bladek-ograbek.pl,Mysłowice,2024-04-14,True
+9413,Mieszko,Kubowicz,jakub47@grupa.net,Radom,2025-02-26,True
+7057,Justyna,Kałwa,mikolaj12@hotmail.com,Oświęcim,2023-10-14,True
+6788,Nikodem,Bek,gmazanek@o2.pl,Mielec,2024-05-25,True
+361,Kacper,Lesisz,nikodem93@fpuh.com,Gniezno,2024-07-10,False
+305,Szymon,Powałka,juliuszkanarek@yahoo.com,Leszno,2024-01-27,True
+2626,Olaf,Gumienny,swasyluk@oskroba.com,Legnica,2024-09-16,True
+8966,Kajetan,Klejna,petrusmaurycy@gmail.com,Lubin,2025-02-05,True
+4513,Klara,Wicha,mkozubal@kabza-duszkiewicz.net,Biłgoraj,2024-01-13,True
+5911,Emil,Kociemba,lukszaigor@interia.pl,Kwidzyn,2025-01-19,True
+8314,Michał,Karłowicz,kamilsadej@swiatek-gul.pl,Piotrków Trybunalski,2024-11-20,True
+3100,Urszula,Bok,fszumna@ppuh.org,Płońsk,2024-03-21,True
+5704,Kaja,Toborek,choinaemil@interia.pl,Racibórz,2024-04-28,True
+3898,Natasza,Ciepła,panton@interia.pl,Wrocław,2024-06-13,True
+5441,Daniel,Kryza,damian88@aleksa-tokaj.pl,Swarzędz,2023-11-23,True
+7929,Eryk,Mierzwiak,sszarzec@o2.pl,Jastrzębie-Zdrój,2025-03-17,True
+622,Jakub,Ziętal,lucsylwia@interia.pl,Kwidzyn,2025-04-12,True
+7234,Arkadiusz,Panasewicz,trojanekemil@interia.pl,Kalisz,2023-10-31,False
+2498,Julian,Kurtyka,tchuchla@interia.pl,Sochaczew,2024-09-27,True
+714,Eliza,Kliszcz,sebastianswierkot@gmail.com,Świętochłowice,2025-03-22,False
+8404,Sylwia,Szpyrka,ikurcz@interia.pl,Zabrze,2024-02-13,True
+2855,Róża,Fitrzyk,okyc@onet.pl,Ciechanów,2023-12-08,True
+4270,Jakub,Matulewicz,nela04@interia.pl,Jelenia Góra,2024-08-31,True
+2908,Tola,Daraż,hulbojtymon@gabinety.org,Świętochłowice,2024-11-08,True
+8079,Konrad,Majdan,grzegorzsolis@spoldzielnia.com,Pszczyna,2025-03-01,True
+4516,Mariusz,Pacura,kabzaandrzej@onet.pl,Ciechanów,2025-05-25,True
+1262,Cezary,Rećko,glancmieszko@spoldzielnia.com,Koło,2024-04-05,True
+3160,Krystyna,Kucewicz,olgierdsobus@onet.pl,Grodzisk Mazowiecki,2024-02-28,True
+971,Rafał,Basa,zrycerz@o2.pl,Skawina,2025-08-03,True
+3912,Inga,Leszczuk,oliwier76@spoldzielnia.com,Inowrocław,2025-01-27,True
+5199,Olga,Haponiuk,olgierdbryda@stasko-reich.pl,Olkusz,2025-05-19,True
+8847,Nela,Wiciak,ssyslo@lepak.net,Turek,2024-12-02,True
+260,Jerzy,Andrzejuk,frankowrafal@gabinety.pl,Głogów,2025-05-16,True
+3790,Sandra,Boś,wskiepko@onet.pl,Pruszków,2024-01-25,False
+9203,Aurelia,Siekierka,dziopaleonard@onet.pl,Bielsk Podlaski,2025-06-21,True
+488,Ksawery,Posmyk,bzdziuchmarcelina@salwin-bugla.com,Krotoszyn,2024-08-04,True
+7906,Józef,Konat,nataniel83@o2.pl,Stargard Szczeciński,2024-07-10,False
+519,Marcel,Kusztal,uglanc@jedral.com,Głogów,2023-10-21,True
+8343,Radosław,Kiełbus,krzysztof35@hotmail.com,Gliwice,2025-04-20,True
+312,Marcin,Kwasek,wenzelkarina@ppuh.com,Rybnik,2024-09-11,True
+3231,Nataniel,Zontek,browarczykleonard@o2.pl,Bartoszyce,2023-11-06,True
+7931,Mikołaj,Opalach,vlezon@o2.pl,Radomsko,2024-07-30,True
+7456,Wojciech,Kuba,poletekinga@gmail.com,Starachowice,2023-12-17,False
+9783,Kacper,Prostak,jkarwan@onet.pl,Konin,2024-02-01,True
+5184,Marek,Matacz,adambasak@karaskiewicz.com,Cieszyn,2023-12-04,True
+8075,Monika,Judek,xszylar@yahoo.com,Ostrów Mazowiecka,2024-08-21,True
+6500,Mariusz,Chadaj,upiorek@filas.net,Swarzędz,2025-05-26,True
+6789,Marek,Sarosiek,elizaszemraj@gmail.com,Zambrów,2025-07-24,False
+7771,Adrianna,Skrobek,fabianpazola@spoldzielnia.com,Piotrków Trybunalski,2024-02-07,True
+2736,Maurycy,Filas,bodzakbartek@puto-skotarek.pl,Płońsk,2025-08-06,True
+7840,Krzysztof,Krzywonos,tola37@interia.pl,Środa Wielkopolska,2024-09-04,True
+6260,Marianna,Dybka,olafleszczak@ppuh.pl,Lublin,2024-01-21,True
+8206,Marcel,Łapaj,maziarczykgustaw@o2.pl,Rybnik,2024-01-18,True
+1248,Tola,Paluszak,aureliazagozda@gmail.com,Kołobrzeg,2025-01-30,True
+9336,Natan,Śledzik,natanielwegrzyk@hotmail.com,Brodnica,2024-05-15,False
+4195,Anastazja,Kabza,matusadrianna@kuran-kaja.com,Tarnowskie Góry,2023-08-12,True
+7999,Inga,Sych,andrzej69@gabinety.com,Oława,2024-05-12,True
+7376,Gustaw,Budych,ewelina64@o2.pl,Mikołów,2023-10-26,False
+3433,Anna Maria,Tylka,hubertbuchalik@gmail.com,Bytom,2023-08-28,True
+5382,Albert,Szymków,kurantrobert@interia.pl,Katowice,2024-08-26,False
+959,Lidia,Witas,olafpietrewicz@hajder.com,Przemyśl,2024-06-25,True
+417,Cezary,Olchawa,marcelinarup@gmail.com,Starogard Gdański,2023-10-09,True
+5742,Kornel,Skonieczka,maks00@fundacja.net,Marki,2025-03-24,True
+6726,Sonia,Lula,hskubala@yahoo.com,Reda,2024-12-30,True
+4382,Monika,Jędrys,agnieszka75@gabinety.org,Mysłowice,2024-02-01,True
+5197,Lidia,Kuliberda,okuzia@hotmail.com,Brzeg,2025-06-01,True
+1113,Tymoteusz,Osojca,olesiejukjedrzej@hotmail.com,Krosno,2024-06-04,False
+2687,Igor,Pianka,krzysztofrakus@onet.pl,Iława,2023-09-16,True
+6471,Bartek,Fronczyk,eliza70@sado.org,Nowy Sącz,2025-02-04,False
+8820,Andrzej,Tomys,ydurlak@o2.pl,Krotoszyn,2023-11-30,True
+7806,Ada,Suchora,marcelina61@gabinety.com,Płońsk,2024-07-29,True
+3409,Emil,Rusnak,norbert89@szygula.com,Sosnowiec,2023-09-29,True
+81,Iwo,Misiurek,aleks57@ppuh.com,Chojnice,2024-12-15,False
+4614,Stefan,Such,zlenc@stowarzyszenie.pl,Rzeszów,2024-05-20,True
+1374,Blanka,Falba,goliaszmaksymilian@fpuh.net,Gdynia,2024-07-12,True
+1510,Jan,Kucab,jpetryk@onet.pl,Ostróda,2023-09-19,False
+6441,Tola,Oleszczak,wkomisarek@interia.pl,Sosnowiec,2024-08-04,True
+3070,Nikodem,Pryk,mzykliwia@grupa.pl,Oleśnica,2024-01-26,True
+3015,Maciej,Sobolak,adudziec@gmail.com,Zielona Góra,2024-07-22,True
+4823,Kamila,Korgul,opotaczek@fpuh.pl,Śrem,2025-05-29,False
+7820,Leonard,Korgul,hswacha@borzych-teterycz.pl,Gorlice,2025-02-20,True
+93,Juliusz,Prokopiak,heczkodariusz@fundacja.net,Otwock,2024-09-04,True
+9421,Inga,Pawlukiewicz,kajetanniechcial@onet.pl,Konin,2024-09-15,False
+6598,Tadeusz,Trzyna,adam50@fundacja.net,Ełk,2025-03-31,True
+4443,Piotr,Łusiak,rajczakjuliusz@hotmail.com,Dębica,2024-06-18,True
+7600,Julita,Jonczyk,stanislawfidura@plich.pl,Kalisz,2024-03-02,False
+3834,Marcelina,Czapiga,nbryda@grupa.pl,Ostrów Wielkopolski,2023-12-16,True
+9701,Róża,Klęk,anna-mariachoina@spoldzielnia.pl,Ząbki,2025-02-18,True
+4322,Kajetan,Jop,pietrewiczanna-maria@yahoo.com,Białogard,2023-11-22,False
+3392,Juliusz,Bajak,blankabembenek@kopciuch.pl,Kluczbork,2025-07-28,True
+4752,Kajetan,Kamyszek,oliwiermyszor@interia.pl,Wołomin,2024-09-27,True
+7227,Anastazja,Rogula,bzlotek@gmail.com,Szczecinek,2024-07-22,True
+9191,Stanisław,Orwat,mucoskar@interia.pl,Katowice,2023-09-24,False
+2360,Miłosz,Cywka,jedrzejkrefta@gmail.com,Stalowa Wola,2024-12-24,False
+1148,Justyna,Paśnik,kazekjuliusz@onet.pl,Szczytno,2024-05-23,False
+5666,Kamila,Ficner,ewelina05@gmail.com,Siemianowice Śląskie,2024-03-23,False
+8073,Eryk,Wincenciak,wojslawagnieszka@hotmail.com,Słupsk,2024-04-18,True
+4943,Julita,Radziewicz,hubertsady@gabinety.com,Olkusz,2023-08-25,True
+3662,Tola,Druszcz,korneliafiedler@o2.pl,Turek,2024-04-03,False
+1563,Antoni,Drobisz,siarakaja@yahoo.com,Leszno,2023-11-02,False
+4113,Mariusz,Kuliberda,olafkremer@ppuh.pl,Płońsk,2025-05-17,True
+9050,Ewelina,Kłysz,kurzagnieszka@sass.com,Rybnik,2024-06-20,True
+9276,Olaf,Gonet,qjanuszewicz@gabinety.pl,Tarnowskie Góry,2023-10-14,True
+8538,Ewelina,Wójt,jerzy29@mrotek-dominczak.net,Marki,2024-01-30,True
+795,Eryk,Buchalik,lapajjulita@yahoo.com,Nowa Sól,2025-03-19,True
+5854,Fryderyk,Tadla,adriangoral@hotmail.com,Jelenia Góra,2025-04-05,True
+7617,Lidia,Jurczuk,sylwiaogonek@gabinety.net,Kętrzyn,2024-04-27,True
+1594,Agnieszka,Hołysz,maklesnikodem@kuza-slobodzian.pl,Kościan,2024-07-10,True
+7416,Marek,Wiekiera,kansyewa@yahoo.com,Września,2025-03-02,False
+5267,Aurelia,Gawliczek,tatarczykfryderyk@onet.pl,Mikołów,2025-04-30,True
+7145,Fabian,Tytko,dgmur@fpuh.com,Wejherowo,2025-01-09,False
+89,Dominik,Zbrożek,spiwek@o2.pl,Łowicz,2024-11-04,True
+8695,Mariusz,Gal,sojdajulianna@hotmail.com,Przemyśl,2024-01-12,True
+9731,Ernest,Chuchla,olgierd24@onet.pl,Siedlce,2024-02-08,True
+9446,Marika,Gamoń,dmlocek@radzio-kloczko.com,Nowy Dwór Mazowiecki,2025-02-09,False
+6752,Monika,Krzysztofek,maks09@yahoo.com,Śrem,2025-03-25,True
+3501,Artur,Dudzicz,skiepkokajetan@yahoo.com,Rumia,2024-02-17,True
+2233,Aleksander,Suszko,okruszona@o2.pl,Zabrze,2025-06-22,True
+2801,Karina,Kostek,mpietrek@onet.pl,Wałcz,2024-11-03,True
+4424,Julian,Łepek,janduszczak@gilewicz.org,Jarosław,2025-06-11,True
+5663,Radosław,Mućko,kamil29@nieszporek.com,Lublin,2023-11-25,True
+7168,Mariusz,Bawoł,mlewicz@gmail.com,Żory,2024-12-09,True
+8337,Patryk,Kwapis,siedlaczekada@gmail.com,Elbląg,2023-08-27,True
+2146,Damian,Ogrodowicz,witoldlenik@kulis.com,Piaseczno,2024-10-16,True
+7967,Apolonia,Bek,michal60@gierasimiuk-kudelka.com,Jelenia Góra,2024-03-25,False
+6549,Kamil,Mitera,janinamorek@gmail.com,Ełk,2023-10-14,True
+7641,Emil,Schwarz,crozmiarek@potoczek-rogula.com,Jelenia Góra,2025-04-06,True
+6164,Marcel,Tarasek,albert10@gmail.com,Kielce,2024-02-07,True
+1495,Elżbieta,Ciepluch,bieniaalbert@onet.pl,Rumia,2024-03-23,False
+7694,Bruno,Dankiewicz,marcel07@yahoo.com,Piaseczno,2024-11-26,True
+7092,Olga,Makieła,winnikcyprian@yahoo.com,Stalowa Wola,2023-11-24,True
+1409,Karol,Wylegała,liwiacieciura@onet.pl,Ostrowiec Świętokrzyski,2023-11-25,True
+6688,Krystyna,Kazana,smyklahubert@czenczek-dacko.com,Swarzędz,2025-03-30,True
+3399,Hubert,Rzucidło,mzarzeczna@gmail.com,Lublin,2023-09-20,True
+109,Jakub,Żero,walentynowiczkrystian@gmail.com,Piotrków Trybunalski,2024-07-19,True
+5636,Sonia,Neugebauer,franciszekkalwak@o2.pl,Bartoszyce,2025-04-18,True
+8482,Michał,Dylak,lidiahanusiak@spoldzielnia.com,Skierniewice,2023-12-15,True
+6602,Inga,Broniarek,julita62@hotmail.com,Wyszków,2024-02-08,True
+1091,Aurelia,Grzejszczak,marcolignacy@gmail.com,Stalowa Wola,2024-09-25,True
+5560,Artur,Kajdan,natanielplich@glica-mateusiak.com,Będzin,2023-08-18,True
+9412,Justyna,Naczk,adrianszramka@ppuh.org,Kętrzyn,2024-12-22,True
+8143,Elżbieta,Grodek,gabrielkucewicz@marosz-klosek.com,Giżycko,2024-07-04,False
+8664,Anna Maria,Dziełak,aleks52@fundacja.pl,Koszalin,2023-12-06,True
+6594,Konrad,Samul,tomaszsobkow@spoldzielnia.com,Krosno,2024-03-11,False
+624,Hubert,Drobisz,wojciechkolber@gmail.com,Oława,2023-08-21,True
+6869,Piotr,Pietrek,krystian76@ruchala-suda.com,Gdańsk,2025-07-26,True
+4814,Ksawery,Kusik,rozalia45@stowarzyszenie.com,Chojnice,2024-04-11,False
+6551,Olaf,Dela,bartusmelania@ppuh.pl,Gdynia,2024-04-14,True
+7528,Artur,Narożna,tadeusz37@gmail.com,Piła,2024-03-02,True
+5796,Przemysław,Galica,rsmela@interia.pl,Kielce,2024-10-25,True
+7435,Mieszko,Malecha,natasza21@yahoo.com,Kluczbork,2024-10-27,True
+4218,Sonia,Świergiel,natan75@celuch.net,Tarnów,2024-03-07,False
+5941,Robert,Goss,janlyskawa@hotmail.com,Chojnice,2024-11-21,True
+8501,Anita,Maruszczyk,rgodzisz@o2.pl,Goleniów,2023-12-13,True
+6427,Andrzej,Pierzak,hwakula@onet.pl,Gniezno,2024-03-10,False
+6825,Aleksander,Pacia,fabian98@fpuh.com,Olkusz,2024-08-26,True
+4131,Stefan,Nocek,krzysztof78@spoldzielnia.pl,Łowicz,2024-03-12,True
+7800,Janina,Baranowicz,owykret@onet.pl,Jastrzębie-Zdrój,2025-02-08,True
+7752,Maksymilian,Znojek,juliannamurach@fpuh.pl,Bolesławiec,2024-07-17,False
+4722,Oliwier,Pawliczak,kamil68@onet.pl,Września,2024-09-30,True
+1650,Aleks,Darul,sandra09@yahoo.com,Nowy Sącz,2023-11-06,True
+4141,Ignacy,Piechna,goworekkalina@tomys-drynda.com,Łaziska Górne,2025-04-21,False
+1617,Ignacy,Długajczyk,ybabij@gabinety.org,Łaziska Górne,2025-04-04,True
+2029,Grzegorz,Pilich,ojedryczka@doroba-palica.pl,Kołobrzeg,2024-05-05,False
+8518,Apolonia,Kucewicz,nowrotroza@gmail.com,Szczytno,2024-03-09,False
+4575,Klara,Trawka,jmiksza@fundacja.pl,Jarocin,2023-10-09,True
+3992,Aleksander,Sajnóg,jacek41@grupa.com,Ostróda,2025-02-15,True
+7375,Tymon,Latek,dkreczmer@gabinety.net,Brodnica,2025-06-05,True
+6150,Janina,Kęsek,yhynek@fpuh.com,Piotrków Trybunalski,2025-06-27,False
+4909,Kamil,Pawela,szymon45@fpuh.pl,Kołobrzeg,2024-04-20,True
+5027,Kornel,Wudarczyk,maciej72@gmail.com,Mikołów,2024-05-24,True
+8261,Damian,Bobik,nikodem01@kurpanik-tyniec.org,Białogard,2024-12-21,True
+4732,Albert,Styrna,oskar87@spoldzielnia.com,Biała Podlaska,2025-05-11,True
+7547,Nikodem,Siwczak,drwiegastanislaw@yahoo.com,Ciechanów,2024-12-18,False
+8135,Eliza,Waloch,wojciech04@o2.pl,Gorzów Wielkopolski,2025-04-11,True
+1607,Eliza,Zięciak,ewelina30@gajcy.pl,Kwidzyn,2023-11-09,False
+4774,Jakub,Szymula,lukasz13@onet.pl,Gniezno,2025-07-02,True
+8108,Emil,Ostafin,rzeszuttobiasz@surdyk.com,Reda,2024-05-06,True
+6950,Adrianna,Brzęk,witafabian@onet.pl,Pszczyna,2025-07-26,True
+6005,Mieszko,Skalik,apoloniakurc@o2.pl,Siemianowice Śląskie,2024-07-14,True
+7727,Adam,Gołas,wjanczura@o2.pl,Sopot,2023-08-09,False
+3541,Kornel,Kulczak,anielaplodzien@hotmail.com,Zamość,2024-02-28,True
+389,Liwia,Szyndler,jerzy08@hotmail.com,Głogów,2025-02-15,True
+1794,Karina,Moczko,urszulatokarek@gabinety.org,Słupsk,2024-10-09,True
+8732,Dorota,Garczarek,kazimierzfiolka@dzieza-kujda.com,Świecie,2024-05-06,False
+4920,Tomasz,Sromek,moryssonia@ppuh.com,Czerwionka-Leszczyny,2025-04-22,True
+5538,Aleksander,Stanisławczyk,pduras@hotmail.com,Kluczbork,2024-01-31,True
+3872,Kalina,Adamiuk,sylwia59@swistek.pl,Chrzanów,2025-01-10,False
+8869,Apolonia,Doroz,dgalica@ppuh.pl,Gniezno,2025-01-23,False
+2254,Apolonia,Duszczyk,raszkiewiczcyprian@michniak-klos.com,Wyszków,2025-07-01,True
+3411,Stefan,Ratka,ffrukacz@o2.pl,Turek,2024-05-05,True
+5460,Nikodem,Gęsiarz,fryderyklew@yahoo.com,Katowice,2025-07-07,True
+4956,Inga,Szelest,konstanty40@gmail.com,Dąbrowa Górnicza,2023-12-11,False
+7395,Eryk,Rykała,jpoczatek@onet.pl,Mińsk Mazowiecki,2024-05-26,True
+5415,Alex,Złotnik,dawidziecik@interia.pl,Żywiec,2023-09-23,False
+7398,Albert,Gogół,aleksdumin@interia.pl,Police,2023-11-02,True
+7413,Nataniel,Fedak,kosiadacz@sowala-kuszyk.com,Włocławek,2024-04-06,True
+9101,Gabriel,Szłapka,aleks08@interia.pl,Świebodzice,2023-10-08,True
+4852,Dagmara,Armata,cyprian59@o2.pl,Wałcz,2025-06-13,True
+2025,Ernest,Ziemkiewicz,skral@gabinety.pl,Gliwice,2023-11-19,True
+2614,Julian,Szpara,rozatowarek@gmail.com,Będzin,2025-04-26,False
+7387,Sandra,Grębowiec,idaraz@slysz-gadzala.pl,Goleniów,2025-01-19,True
+2926,Michał,Klisz,stefanciemiega@gmail.com,Nowy Dwór Mazowiecki,2024-12-10,True
+1122,Dariusz,Masłoń,dariusz91@toborek.pl,Ostrów Mazowiecka,2025-02-28,True
+2910,Nicole,Nicewicz,bianka18@zemanek-miodek.org,Lubliniec,2024-04-18,True
+8147,Eryk,Mytych,sylwia66@hotmail.com,Krosno,2024-06-10,True
+7382,Kornelia,Koterba,lkopala@spoldzielnia.pl,Szczecinek,2025-01-05,True
+3482,Natasza,Szymanik,bianka15@jachimczyk.pl,Giżycko,2025-05-18,True
+796,Dominik,Przybycień,marek21@o2.pl,Zakopane,2024-03-02,True
+1576,Leon,Wężyk,sztuczkatymon@fpuh.pl,Łódź,2024-06-23,True
+6176,Marcin,Szłapa,nwiciak@yahoo.com,Skarżysko-Kamienna,2023-10-02,True
+6265,Aleks,Pietraś,rgronostaj@ficner-hutnik.pl,Wągrowiec,2024-07-16,False
+2458,Blanka,Tyniec,staporjeremi@gmail.com,Kalisz,2024-10-07,True
+3311,Eliza,Bilewicz,xdrobny@spoldzielnia.com,Chojnice,2023-12-25,False
+1254,Leonard,Sobieszczyk,jacekkolsut@onet.pl,Grudziądz,2025-03-26,True
+6833,Stefan,Kuświk,maduramalwina@grupa.net,Żory,2023-09-28,False
+8795,Witold,Karaśkiewicz,okraskapiotr@yahoo.com,Łuków,2025-07-22,True
+3837,Ada,Hermann,kosskornel@hotmail.com,Gorlice,2024-07-23,True
+4399,Rozalia,Luberda,anieladrozd@stowarzyszenie.net,Zambrów,2024-09-29,False
+3595,Ida,Para,doktorjulianna@hotmail.com,Świdnik,2023-11-19,False
+6620,Lidia,Plona,marekmiekus@onet.pl,Żary,2024-10-29,True
+8383,Franciszek,Zacharewicz,staniczeknorbert@onet.pl,Gliwice,2025-05-19,True
+2123,Tobiasz,Lamch,dmucko@fundacja.org,Zambrów,2025-02-04,False
+3238,Michał,Szajner,ajarka@fundacja.com,Września,2024-01-17,True
+5404,Julian,Namysło,osialapolonia@gmail.com,Gorlice,2024-02-25,True
+5999,Piotr,Piguła,dmrotek@yahoo.com,Radom,2024-07-24,True
+5939,Fryderyk,Westfal,igor82@pindor.com,Szczecinek,2023-09-18,False
+2045,Roksana,Filek,jenekewelina@burza-sobolak.pl,Kołobrzeg,2023-09-10,False
+1579,Alex,Janowiak,oskar13@fpuh.org,Brodnica,2024-09-11,True
+15,Melania,Niebudek,melermonika@grupa.pl,Warszawa,2024-09-18,True
+2672,Maksymilian,Jaszczyszyn,grzegorz37@mikita.net,Kalisz,2023-12-22,True
+7015,Kaja,Banachowicz,mtarasek@onet.pl,Piaseczno,2024-12-04,True
+8721,Michał,Zapaśnik,bachanekjeremi@bronka-palus.net,Kraśnik,2023-08-22,True
+8850,Błażej,Hawro,xkostorz@yahoo.com,Świebodzice,2023-11-09,True
+4813,Monika,Szołtysik,urszula36@onet.pl,Sosnowiec,2023-12-07,False
+1085,Hubert,Grymuza,broniarektomasz@o2.pl,Ostróda,2024-01-27,True
+4984,Nicole,Wojtoń,karolkocol@o2.pl,Wodzisław Śląski,2024-07-28,False
+7154,Nela,Maksimowicz,dariuszpulka@spoldzielnia.com,Wałbrzych,2024-08-31,False
+2884,Eryk,Żbik,pdoktor@hotmail.com,Lublin,2025-07-29,True
+334,Leon,Bryda,dywanjacek@grupa.pl,Chrzanów,2024-10-09,True
+7203,Elżbieta,Pietrasz,smakiela@drobniak.net,Koszalin,2025-04-09,True
+4368,Grzegorz,Kurpanik,koczaragrzegorz@kliszcz.org,Radom,2024-04-15,True
+3079,Gaja,Kohnke,stefan96@interia.pl,Lubartów,2024-06-05,True
+7202,Maciej,Prygiel,anna-mariadzienisz@ppuh.pl,Suwałki,2024-06-04,True
+9910,Kamil,Pielech,rozaliadziadkowiec@hotmail.com,Warszawa,2024-07-17,True
+8865,Tymon,Legutko,emil57@onet.pl,Turek,2024-03-23,True
+264,Alex,Gustaw,arkadiusz63@fpuh.pl,Bytom,2025-06-10,True
+4338,Nataniel,Uroda,wojciechbodzak@dyrek.com,Sieradz,2025-01-19,False
+8896,Kaja,Radke,kalinawielgos@onet.pl,Biała Podlaska,2024-09-27,True
+8448,Gustaw,Prystupa,myszkbartek@stowarzyszenie.pl,Krotoszyn,2023-10-31,False
+5904,Kornel,Noras,dariuszlitwinowicz@yahoo.com,Jasło,2023-08-09,False
+1499,Justyna,Kochman,cimochjulian@yahoo.com,Dębica,2025-07-01,True
+4191,Błażej,Rorat,wdarul@onet.pl,Dzierżoniów,2024-06-11,True
+7484,Jeremi,Bareja,ryszardsporek@spoldzielnia.pl,Stargard Szczeciński,2023-08-15,True
+9644,Arkadiusz,Szram,gszeszko@ppuh.pl,Olsztyn,2025-06-23,True
+8311,Tomasz,Palej,konstanty55@gmail.com,Inowrocław,2023-11-30,False
+7589,Jeremi,Szoka,patryk85@fpuh.net,Zawiercie,2024-01-22,False
+501,Rozalia,Przewoźny,filip58@gmail.com,Gniezno,2024-05-18,True
+9156,Julian,Kostorz,jeremichlad@hotmail.com,Łaziska Górne,2025-07-03,True
+9415,Daniel,Kuśmider,tolatwardosz@yahoo.com,Skarżysko-Kamienna,2025-04-03,False
+3095,Kornelia,Kolarz,bruno48@fundacja.pl,Bochnia,2023-09-22,True
+4632,Jeremi,Bany,qpiekarek@spoldzielnia.com,Krotoszyn,2025-03-17,True
+368,Miłosz,Kinal,zeromaciej@blaziak-sabala.pl,Wrocław,2024-09-10,True
+4059,Maksymilian,Folta,dariuszkalwa@spoldzielnia.pl,Szczytno,2024-11-20,True
+8175,Adam,Bitner,pawel47@o2.pl,Kutno,2025-07-11,False
+4631,Szymon,Rykała,yszlapa@ppuh.org,Kołobrzeg,2025-02-25,True
+6071,Jacek,Hutnik,igorrawa@stowarzyszenie.com,Ostrów Wielkopolski,2023-09-06,True
+2663,Tobiasz,Fiedoruk,albertsyldatk@szynkiewicz-zubel.pl,Polkowice,2024-11-23,True
+1027,Róża,Drewniok,bianka44@gmail.com,Czerwionka-Leszczyny,2025-01-27,True
+5909,Paweł,Dzierżak,hgornisiewicz@gmail.com,Bolesławiec,2023-12-10,True
+5051,Dawid,Kolman,malwina89@olchawa.pl,Reda,2024-08-09,False
+6327,Fryderyk,Małas,przemyslaw85@dargacz.org,Śrem,2024-09-07,True
+9733,Dariusz,Kidawa,bartek37@ppuh.pl,Radom,2025-02-13,True
+1691,Gustaw,Szlaga,alan58@ppuh.pl,Rzeszów,2023-12-01,True
+674,Marika,Drobisz,rudykurszula@grupa.com,Ciechanów,2025-05-20,True
+5573,Ewa,Adamów,hkuznia@onet.pl,Piaseczno,2025-08-04,True
+5767,Bianka,Heba,wojciechwandas@gmail.com,Gorzów Wielkopolski,2024-07-09,True
+5157,Apolonia,Szmaj,nfrankowicz@grupa.org,Wałcz,2024-07-13,False
+734,Arkadiusz,Pusz,bmajnusz@onet.pl,Kraków,2023-10-20,False
+3526,Ksawery,Hewelt,kornelmaksimowicz@o2.pl,Łomża,2024-06-27,True
+569,Monika,Kandziora,mteodorowicz@grupa.com,Turek,2024-06-26,True
+9188,Ada,Mrotek,antoni65@fpuh.pl,Bartoszyce,2024-01-01,True
+2922,Róża,Nieszporek,idamytnik@stowarzyszenie.pl,Kraków,2024-11-18,True
+7910,Leonard,Szurek,hartmandominik@hotmail.com,Nowa Ruda,2023-09-05,False
+1559,Tobiasz,Zinkiewicz,antoni57@spoldzielnia.pl,Będzin,2025-08-03,True
+102,Ewelina,Pikor,kalina10@gabinety.com,Głogów,2024-01-28,False
+3007,Liwia,Wypiór,pmatyszczak@gmail.com,Białystok,2023-09-09,True
+7200,Olga,Tryc,wochnikkrystian@gmail.com,Przemyśl,2023-10-02,True
+304,Blanka,Wawak,rafalbazela@szelest-lepka.com,Tczew,2025-03-23,True
+77,Leon,Reichel,drygasbruno@kabala.com,Sosnowiec,2024-09-05,True
+6753,Marcel,Makles,jeremitrzcionka@yahoo.com,Jelenia Góra,2024-02-12,False
+8630,Angelika,Juras,damian64@moron-fita.com,Środa Wielkopolska,2025-07-21,True
+1209,Jeremi,Jezior,spyc@gabinety.com,Gorlice,2023-11-15,True
+7741,Agnieszka,Suchenek,artursteuer@gmail.com,Bełchatów,2025-06-11,True
+8215,Maksymilian,Jarka,ntryka@owczarczak-pietrewicz.pl,Szczytno,2025-03-17,True
+8945,Lidia,Kostorz,haraburdakrystyna@ppuh.pl,Jasło,2024-12-25,True
+8414,Nataniel,Fierek,fdrywa@o2.pl,Ostrowiec Świętokrzyski,2024-09-29,True
+1775,Alex,Nyk,wjohn@gmail.com,Łódź,2025-01-06,True
+3473,Ewa,Krefta,eprzewoznik@hotmail.com,Jasło,2025-05-11,False
+484,Patryk,Kandora,malwina24@gmail.com,Częstochowa,2023-10-29,False
+2189,Inga,Szmalec,juliannakorda@krolikiewicz-bryczek.pl,Leszno,2024-08-15,True
+347,Krystian,Ledzion,angelika08@spoldzielnia.org,Rybnik,2024-07-26,True
+5482,Dawid,Ograbek,kazimierz30@ppuh.net,Chełm,2025-01-31,True
+8362,Marika,Pabisiak,smiros@onet.pl,Świecie,2024-09-29,True
+1473,Rozalia,Smagacz,dawid35@spoldzielnia.com,Tarnobrzeg,2024-03-31,True
+5101,Tadeusz,Superson,utratakornelia@torz-poletek.com,Czeladź,2023-12-28,True
+6764,Julian,Kiliszek,vpenkala@hotmail.com,Toruń,2023-10-28,True
+8707,Anna Maria,Jezior,sonia50@o2.pl,Żyrardów,2025-07-26,False
+4930,Kaja,Basista,juliusz45@yahoo.com,Brodnica,2023-11-29,True
+6328,Inga,Dyszy,kajdasnorbert@onet.pl,Płock,2024-04-06,False
+2608,Karol,Chromy,rmatyjaszek@onet.pl,Częstochowa,2024-12-05,False
+4,Krystyna,Mydlarz,cpospiech@spoldzielnia.com,Białogard,2024-10-21,True
+2213,Nicole,Usarek,ydynia@ppuh.com,Wodzisław Śląski,2024-10-13,True
+4828,Jan,Zbrzeźniak,lidia83@o2.pl,Katowice,2025-05-20,True
+857,Ida,Małota,jan84@ppuh.org,Zielona Góra,2023-12-13,True
+6976,Sara,Labocha,urszulasadej@stowarzyszenie.pl,Kraków,2024-03-19,True
+5886,Julita,Prochownik,urszula92@hus-baczkiewicz.pl,Będzin,2023-10-27,False
+625,Daniel,Zaguła,zubowiczsylwia@jargilo-szczepan.net,Reda,2024-08-19,False
+291,Kacper,Buszkiewicz,rochbianka@ppuh.pl,Bielawa,2025-06-27,True
+2018,Tymon,Witas,norbert89@interia.pl,Czechowice-Dziedzice,2024-04-22,False
+669,Michał,Smektała,andrzej98@spoldzielnia.com,Głogów,2023-11-18,False
+8922,Ewelina,Żabierek,yolkowicz@kohnke-malz.pl,Oświęcim,2025-01-18,True
+8265,Konstanty,Pyzel,inga87@fpuh.com,Tychy,2024-02-26,False
+9696,Gaja,Krzywonos,eduras@onet.pl,Cieszyn,2024-02-16,True
+1631,Sonia,Goj,hkossak@fpuh.net,Kędzierzyn-Koźle,2023-11-01,True
+5171,Tymon,Porwoł,bchomik@o2.pl,Dębica,2025-07-23,True
+7204,Dominik,Bobik,lamentprzemyslaw@stowarzyszenie.pl,Piaseczno,2024-09-21,True
+2522,Albert,Patoła,cteclaw@interia.pl,Bełchatów,2024-05-06,True
+2215,Adrian,Pancerz,gierakblazej@yahoo.com,Kutno,2024-03-03,True
+6967,Ewelina,Ogrodowicz,malychapawel@onet.pl,Warszawa,2025-04-02,True

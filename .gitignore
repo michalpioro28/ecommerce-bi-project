@@ -1,0 +1,30 @@
+# --- Pliki środowiskowe ---
+.venv/
+venv/
+.env
+
+# --- Foldery z pełnymi danymi (ciężkie pliki) ---
+data/raw/
+data/clean/
+
+# --- Cache Pythona ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Notebooki ---
+.ipynb_checkpoints/
+
+# --- Systemowe / edytorr ---
+.vscode/
+.DS_Store
+Thumbs.db
+
+# --- Power BI ---
+*.tmp
+*.bak
+*.pbit
+
+# --- Raporty tymczasowe (jeśli by się generowały) ---
+*.log
